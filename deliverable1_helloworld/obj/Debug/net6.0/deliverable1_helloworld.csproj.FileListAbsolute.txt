@@ -1,0 +1,15 @@
+/Users/arizonabowen/Desktop/Class Project/deliverable1_helloworld/deliverable1_helloworld/bin/Debug/net6.0/deliverable1_helloworld
+/Users/arizonabowen/Desktop/Class Project/deliverable1_helloworld/deliverable1_helloworld/bin/Debug/net6.0/deliverable1_helloworld.deps.json
+/Users/arizonabowen/Desktop/Class Project/deliverable1_helloworld/deliverable1_helloworld/bin/Debug/net6.0/deliverable1_helloworld.runtimeconfig.json
+/Users/arizonabowen/Desktop/Class Project/deliverable1_helloworld/deliverable1_helloworld/bin/Debug/net6.0/deliverable1_helloworld.dll
+/Users/arizonabowen/Desktop/Class Project/deliverable1_helloworld/deliverable1_helloworld/bin/Debug/net6.0/deliverable1_helloworld.pdb
+/Users/arizonabowen/Desktop/Class Project/deliverable1_helloworld/deliverable1_helloworld/obj/Debug/net6.0/deliverable1_helloworld.csproj.AssemblyReference.cache
+/Users/arizonabowen/Desktop/Class Project/deliverable1_helloworld/deliverable1_helloworld/obj/Debug/net6.0/deliverable1_helloworld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arizonabowen/Desktop/Class Project/deliverable1_helloworld/deliverable1_helloworld/obj/Debug/net6.0/deliverable1_helloworld.AssemblyInfoInputs.cache
+/Users/arizonabowen/Desktop/Class Project/deliverable1_helloworld/deliverable1_helloworld/obj/Debug/net6.0/deliverable1_helloworld.AssemblyInfo.cs
+/Users/arizonabowen/Desktop/Class Project/deliverable1_helloworld/deliverable1_helloworld/obj/Debug/net6.0/deliverable1_helloworld.csproj.CoreCompileInputs.cache
+/Users/arizonabowen/Desktop/Class Project/deliverable1_helloworld/deliverable1_helloworld/obj/Debug/net6.0/deliverable1_helloworld.dll
+/Users/arizonabowen/Desktop/Class Project/deliverable1_helloworld/deliverable1_helloworld/obj/Debug/net6.0/refint/deliverable1_helloworld.dll
+/Users/arizonabowen/Desktop/Class Project/deliverable1_helloworld/deliverable1_helloworld/obj/Debug/net6.0/deliverable1_helloworld.pdb
+/Users/arizonabowen/Desktop/Class Project/deliverable1_helloworld/deliverable1_helloworld/obj/Debug/net6.0/deliverable1_helloworld.genruntimeconfig.cache
+/Users/arizonabowen/Desktop/Class Project/deliverable1_helloworld/deliverable1_helloworld/obj/Debug/net6.0/ref/deliverable1_helloworld.dll
